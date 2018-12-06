@@ -2,6 +2,7 @@
   "name": "pingflow-api",
   "version": "0.0.0",
   "main": "src",
+  "author": "gui.renard@gmail.com",
   "private": true,
   "scripts": {
     "start": "node .",
